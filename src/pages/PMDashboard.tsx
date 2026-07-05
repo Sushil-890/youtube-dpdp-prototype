@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { motion } from 'framer-motion';
 import type { Variants } from 'framer-motion';
-import { BarChart3, TrendingUp, Users, ShieldCheck, Download, Trash2, Baby, Clock } from 'lucide-react';
+import { BarChart3, TrendingUp, ShieldCheck, Download, Trash2, Baby, Clock } from 'lucide-react';
 
 // ─── Mock data ────────────────────────────────────────────────
 const TREND_DATA = [62, 65, 67, 70, 69, 72, 74, 76, 75, 78, 80, 82, 81, 84, 86, 87, 86, 88, 89, 91, 90, 92, 93, 94, 93, 94, 95, 94, 94, 94];

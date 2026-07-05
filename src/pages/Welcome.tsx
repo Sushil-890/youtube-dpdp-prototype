@@ -2,7 +2,7 @@ import React from 'react';
 import { useNavigate } from 'react-router-dom';
 import { motion } from 'framer-motion';
 import type { Variants } from 'framer-motion';
-import { Shield, Eye, Trash2, ArrowRight, Users } from 'lucide-react';
+import { Shield, Eye, Trash2, Users } from 'lucide-react';
 import { usePrivacy } from '../context/PrivacyContext';
 
 export const Welcome: React.FC = () => {
